@@ -1,0 +1,53 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.indexLogo {
+  margin: -50px 0 50px 0;
+}
+
+.BrandBTN{
+  border: 2px solid black;
+  border-radius: 10px;
+  text-align: center;
+  margin: 20px;
+}
+.BrandBTN:hover{
+  border: 2px solid #FFBD59;
+}
+h1.indexLogo{
+  text-align: center;
+}
+.admin{
+  text-align: center;
+}
+.bgIndex{
+  background-color: #FFF9F0;
+}
+.card{
+  float: left;
+  margin: 10px;
+  border: 3px solid;
+}
+.card-body{
+  width: 270px;
+  height: 270px;
+}
+.cardName{
+  height: 70px;
+}
+
+.btn-de {
+  position: absolute;
+  float: left;
+  bottom: 1em;
+}
+
+.back_home_btn {
+  margin-bottom: 1em;
+}

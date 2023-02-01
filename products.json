@@ -1,0 +1,970 @@
+[{
+  "_id": {
+    "$oid": "617c3433333a3888363b0151"
+  },
+  "Brand": "HP",
+  "Name": "HP Notebook ENVY x360 13-ay0526AU Black (A)",
+  "ProcessorBrand": "AMD",
+  "Processor": "AMD Ryzen 7 4700U",
+  "Memory": "16GB DDR4 3200 SDRAM (onboard)",
+  "Storage": "1TB PCIe NVMe M.2 SSD",
+  "GraphicsBrand": "AMD",
+  "Graphics": "AMD Radeon Vega Graphics",
+  "ScreenSize": "13.3 inch",
+  "Display": "Diagonal, FHD (1920 x 1080), multitouch-enabled, IPS, edge-to-edge glass, micro-edge, BrightView, Corning Gorilla Glass NBT, 1000 nits, 72% NTSC, HP Sure View integrated privacy screen",
+  "Dimensions": "30.7 x 21.15 x 1.47 cm",
+  "Weight": "1.32 Kg",
+  "Warranty": "2 Years Onsite Service + ประกันอุบัติเหตุ 1 ปี",
+  "img": "images/HP-Notebook-ENVY-x360-13-ay0526AU-Black-1.jpg",
+  "Price": 37990
+},{
+  "_id": {
+    "$oid": "617c37a8333a3888363b0152"
+  },
+  "Brand": "HP",
+  "Name": "HP Notebook Gaming VICTUS 16-D0171TX Blue",
+  "ProcessorBrand": "Intel",
+  "Processor": "Intel Core i5-11400H",
+  "Memory": "8GB DDR4-2933 MHz",
+  "Storage": "512GB PCIe NVMe TLC M.2 SSD + 32GB 3D Xpoint",
+  "GraphicsBrand": "NVIDIA",
+  "Graphics": "NVIDIA GeForce RTX 3050",
+  "ScreenSize": "16.1 inch",
+  "Display": "Diagonal, FHD (1920 x 1080), 144 Hz, IPS, micro-edge, anti-glare, 250 nits, 45% NTSC",
+  "Dimensions": "37 x 26 x 2.35 cm",
+  "Weight": "2.46 Kg",
+  "Warranty": "Limited On-Site Warranty 2 Years (2/2/2) + HP ADP 1 Year ประกันอุบัติเหตุใน1ปีแรกุ 1 ปี",
+  "img": "images/HP-Notebook-Victus-16-D0171TX-Blue-1.jpg",
+  "Price": 35990
+},{
+  "_id": {
+    "$oid": "617c3904333a3888363b0153"
+  },
+  "Brand": "HP",
+  "Name": "HP Notebook 13-ba1001TX Silver",
+  "ProcessorBrand": "Intel",
+  "Processor": "Intel Core i5-1135G7",
+  "Memory": "8GB DDR4-2666 SDRAM",
+  "Storage": "512GB PCIe NVMe TLC M.2 SSD",
+  "GraphicsBrand": "NVIDIA",
+  "Graphics": "NVIDIA GeForce MX450",
+  "ScreenSize": "13.3 inch",
+  "Display": "FHD (1920 x 1080), IPS, edge-to-edge glass, micro-edge, BrightView, 1000 nits, 72% NTSC, HP Sure View integrated privacy screen",
+  "Dimensions": "30.65 x 19.46 x 1.69 cm",
+  "Weight": "1.30 Kg",
+  "Warranty": "Limited On-Site Warranty 3 Year (3/3/3) + HP Service : 1 Year HP Smart Friendรกุ 1 ปี",
+  "img": "images/HP-Notebook-13-ba1001TX-Silver-1.jpg",
+  "Price": 33900
+},{
+  "_id": {
+    "$oid": "617c3a1b333a3888363b0154"
+  },
+  "Brand": "HP",
+  "Name": "HP Notebook Pavilion 15-eg0518TU Silver",
+  "ProcessorBrand": "Intel",
+  "Processor": "Intel Core i5-1135G7",
+  "Memory": "16GB DDR4 3200 SDRAM",
+  "Storage": "1TB PCIe NVMe M.2 SSD",
+  "GraphicsBrand": "Intel",
+  "Graphics": "Intel Iris Xe Graphics0",
+  "ScreenSize": "15.6 inch",
+  "Display": "Diagonal, FHD (1920 x 1080), IPS, micro-edge, BrightView, 250 nits, 45% NTSC",
+  "Dimensions": "36.02 x 23.4 x 1.79 cm",
+  "Weight": "1.71 Kg",
+  "Warranty": "2 Years Onsite Service + 1 Year ADP Warranty",
+  "img": "images/HP-Notebook-Pavilion-15-eg0518TU-Silver-1.jpg",
+  "Price": 30990
+},{
+  "_id": {
+    "$oid": "617c3af4333a3888363b0155"
+  },
+  "Brand": "HP",
+  "Name": "HP Notebook Pavilion Aero 13-be0161AU Silver (A)",
+  "ProcessorBrand": "AMD",
+  "Processor": "AMD Ryzen 7 5800U",
+  "Memory": "16GB DDR4 on board",
+  "Storage": "512GB PCIe NVMe M.2 SSD",
+  "GraphicsBrand": "AMD",
+  "Graphics": "AMD Radeon Graphics",
+  "ScreenSize": "13.3 inch",
+  "Display": "Diagonal, WUXGA (1920 x 1200), IPS, micro-edge, anti-glare, 400 nits, 100% sRGB",
+  "Dimensions": "29.7 x 20.9 x 1.69 cm",
+  "Weight": "1.0 Kg",
+  "Warranty": "2 Years Onsite Service + ประกันอุบิตเหตุ 1 ปี",
+  "img": "images/HP-Notebook-Pavilion-Aero-13-be0161AU-Silver-1.jpg",
+  "Price": 30990
+},{
+  "_id": {
+    "$oid": "617c41df333a3888363b0156"
+  },
+  "Brand": "HP",
+  "Name": "HP Notebook Pavilion 15-eg0527TX Silver",
+  "ProcessorBrand": "Intel",
+  "Processor": "Intel Core i5-1135G7",
+  "Memory": "8GB DDR4 1DM 3200",
+  "Storage": "512GB PCIe value",
+  "GraphicsBrand": "NVIDIA",
+  "Graphics": "Nvidia GeForce MX450",
+  "ScreenSize": "15.6 inch",
+  "Display": "FHD Brightview IPS 250 nits Narrow border slim",
+  "Dimensions": "36.02 x 23.4 x 1.79 cm",
+  "Weight": "1.75 Kg",
+  "Warranty": "Limited On-Site Warranty 2 Years (2/2/2) + HP Service : 1 Year HP Smart Friend 1 ปี",
+  "img": "images/HP-Notebook-Pavilion-15-eg0527TX-Silver-1.jpg",
+  "Price": 29990
+},{
+  "_id": {
+    "$oid": "617c43c1333a3888363b0158"
+  },
+  "Brand": "HP",
+  "Name": "HP Notebook Pavilion 15-eh1081AU Silver (A)",
+  "ProcessorBrand": "AMD",
+  "Processor": "AMD Ryzen 7 5700U",
+  "Memory": "16GB DDR4-3200MHz",
+  "Storage": "512GB PCIe NVMe M.2 SSD",
+  "GraphicsBrand": "AMD",
+  "Graphics": "AMD Radeon Graphics",
+  "ScreenSize": "15.6 inch",
+  "Display": "Diagonal, FHD (1920 x 1080), IPS, micro-edge, BrightView, 250 nits, 45% NTSC",
+  "Dimensions": "36.02 x 23.4 x 1.79 cm",
+  "Weight": "1.75 Kg",
+  "Warranty": "Limited On-Site Warranty 2 Years (2/2/2) + HP Service : 1 Year HP Smart Friend",
+  "img": "images/HP-Notebook-Pavilion-15-eh1081AU-Silver-1.jpg",
+  "Price": 27990
+},{
+  "_id": {
+    "$oid": "617c449e333a3888363b015a"
+  },
+  "Brand": "HP",
+  "Name": "HP Notebook Pavilion Aero 13-be0162AU Silver (A)",
+  "ProcessorBrand": "AMD",
+  "Processor": "AMD Ryzen 5 5600U",
+  "Memory": "8GB DDR4 on board",
+  "Storage": "512GB PCIe NVMe M.2 SSD",
+  "GraphicsBrand": "AMD",
+  "Graphics": "AMD Radeon Graphics",
+  "ScreenSize": "13.3 inch",
+  "Display": "Diagonal, WUXGA (1920 x 1200), IPS, micro-edge, anti-glare, 400 nits, 100% sRGB",
+  "Dimensions": "29.7 x 20.9 x 1.69 cm",
+  "Weight": "1.0 Kg",
+  "Warranty": "2 Years Onsite Service + ประกันอุบัติเหตุ 1ปี",
+  "img": "images/HP-Notebook-Pavilion-Aero-13-be0162AU-Silver-1.jpg",
+  "Price": 25990
+},{
+  "_id": {
+    "$oid": "617c4562333a3888363b015b"
+  },
+  "Brand": "HP",
+  "Name": "HP Notebook Pavilion 15-eh1082AU Silver (A)",
+  "ProcessorBrand": "AMD",
+  "Processor": "AMD Ryzen 5 5500U",
+  "Memory": "16GB DDR4-3200 MHz",
+  "Storage": "512GB PCIe NVMe M.2 SSD",
+  "GraphicsBrand": "AMD",
+  "Graphics": "AMD Radeon Graphics",
+  "ScreenSize": "15.6 inch",
+  "Display": "Diagonal, FHD (1920 x 1080), IPS, micro-edge, BrightView, 250 nits, 45% NTSC",
+  "Dimensions": "36.02 x 23.4 x 1.79 cm",
+  "Weight": "1.75 Kg",
+  "Warranty": "Limited On-Site Warranty 2 Years (2/2/2) + HP Service : 1 Year HP Smart",
+  "img": "images/HP-Notebook-Pavilion-15-eh1082AU-Silver-1.jpg",
+  "Price": 24990
+},{
+  "_id": {
+    "$oid": "617c4656333a3888363b015c"
+  },
+  "Brand": "HP",
+  "Name": "HP Notebook 15s-EQ2067AU Silver (A)",
+  "ProcessorBrand": "AMD",
+  "Processor": "AMD Ryzen 7 5700U",
+  "Memory": "16GB DDR4 3200MHz",
+  "Storage": "512GB PCIe NVMe M.2 SSD",
+  "GraphicsBrand": "AMD",
+  "Graphics": "AMD Radeon Graphics",
+  "ScreenSize": "15.6 inch",
+  "Display": "Diagonal, FHD (1920 x 1080), IPS, micro-edge, anti-glare, 250 nits, 45% NTSC",
+  "Dimensions": "35.85 x 24.2 x 1.79 cm",
+  "Weight": "1.70 Kg",
+  "Warranty": "2 Years Onsite Service",
+  "img": "images/HP-Notebook-15s-EQ2067AU-Silver-1.jpg",
+  "Price": 24990
+},{
+  "_id": {
+    "$oid": "617cedc5359b356200ae4a39"
+  },
+  "Brand": "Apple",
+  "Name": "Apple MacBook Pro 13.3-inch with Touch Bar",
+  "ProcessorBrand": "intel",
+  "Processor": "2.0GHz quad-core 10th-generation Intel Core i5",
+  "Memory": "16GB of 3733MHz LPDDR4X onboard memory",
+  "Storage": "512GB SSD",
+  "GraphicsBrand": "intel",
+  "Graphics": "Intel Iris Plus Graphics",
+  "ScreenSize": "13.3 inch",
+  "Display": "Retina display",
+  "Dimensions": "30.41 x 21.24 x 1.56 cm.",
+  "Weight": "1.4 Kg",
+  "Warranty": "1 Year",
+  "img": "images/Apple-MacBook-Pro-13-3-inch-with-Touch-Bar-2.jpg",
+  "Price": 59900
+},{
+  "_id": {
+    "$oid": "617cf294359b356200ae4a3b"
+  },
+  "Brand": "Apple",
+  "Name": "Apple MacBook Pro 13",
+  "ProcessorBrand": "Apple",
+  "Processor": "Apple M1 chip",
+  "Memory": "16GB unified memory",
+  "Storage": "256GB SSD",
+  "GraphicsBrand": "N/A",
+  "Graphics": "N/A",
+  "ScreenSize": "13.3 inch",
+  "Display": "LED-backlit display with IPS technology",
+  "Dimensions": "30.41 x 21.24 x 1.56 cm.",
+  "Weight": "1.4 Kg.",
+  "Warranty": "1 Year",
+  "img": "images/Apple-Z11B000BF-1.jpg",
+  "Price": 49900
+},{
+  "_id": {
+    "$oid": "617cf344359b356200ae4a3c"
+  },
+  "Brand": "Apple",
+  "Name": "Apple MacBook Air 13",
+  "ProcessorBrand": "Apple",
+  "Processor": "Apple M1 chip",
+  "Memory": "8GB unified memory",
+  "Storage": "512GB SSD",
+  "GraphicsBrand": "N/A",
+  "Graphics": "N/A",
+  "ScreenSize": "13.3 inch",
+  "Display": "LED-backlit display with IPS technology",
+  "Dimensions": "30.41 x 21.24 x 0.41-1.61 cm.",
+  "Weight": "1.29 Kg.",
+  "Warranty": "1 Year",
+  "img": "images/Apple-MacBook-Air-13-M1-chip8C-CPU-7C-GPU-8GB-256GB-Silver-2020-1.jpg",
+  "Price": 41400
+},{
+  "_id": {
+    "$oid": "617cf64c359b356200ae4a3d"
+  },
+  "Brand": "Apple",
+  "Name": "MacBook Pro 16 inch",
+  "ProcessorBrand": "Apple",
+  "Processor": "Apple M1 Pro with 10-core CPU, 16-core GPU, 16-core Neural Engine",
+  "Memory": "16GB unified memory",
+  "Storage": "512GB SSD",
+  "GraphicsBrand": "N/A",
+  "Graphics": "N/A",
+  "ScreenSize": "13.3 inch",
+  "Display": "LED-backlit display with IPS technology",
+  "Dimensions": "35.79 x 24.59  x 1.62 cm.",
+  "Weight": "2.0 Kg.",
+  "Warranty": "1 Year",
+  "img": "images/Apple-mbp16-spacegray-select-202110.jpg",
+  "Price": 89900
+},{
+  "_id": {
+    "$oid": "617c4dcc333a3888363b0168"
+  },
+  "Brand": "Dell",
+  "Name": "Dell Notebook Alienware M15 R6-W569212300THW10",
+  "ProcessorBrand": "Intel",
+  "Processor": "Intel Core i7-11800H",
+  "Memory": "32GB DDR4 3200MHz",
+  "Storage": "1TB PCIe M.2 SSD",
+  "GraphicsBrand": "NVIDIA",
+  "Graphics": "NVIDIA GeForce RTX 3070",
+  "ScreenSize": "15.6 inch",
+  "Display": "QHD (2560 x 1440) 240Hz 2ms with ComfortView Plus, NVIDIA G-SYNC and Advanced Optimus",
+  "Dimensions": "35.62 x 27.25 x 1.29 cm",
+  "Weight": "2.69 Kg",
+  "Warranty": "2 Years Premium Support:Onsite Service-Retail ( 1 Year Accidental Damage Service-Retail/Adapter 2 Years Warranty / Battery 2 Years Warranty)",
+  "img": "images/Dell-Notebook-Alienware-M15-R6-W569212300THW10-1.jpg",
+  "Price": 97490
+},{
+  "_id": {
+    "$oid": "617c4f0b333a3888363b0169"
+  },
+  "Brand": "Dell",
+  "Name": "Dell Notebook Alienware M15R5R-W569212800ATHW10 (A)",
+  "ProcessorBrand": "AMD",
+  "Processor": "AMD Ryzen 7 5800H",
+  "Memory": "32GB DDR4 3200MHz",
+  "Storage": "1TB PCIe M.2 SSD",
+  "GraphicsBrand": "NVIDIA",
+  "Graphics": "NVIDIA GeForce RTX 3070",
+  "ScreenSize": "15.6 inch",
+  "Display": "QHD (2560 x 1440) 240Hz 2ms with ComfortView Plus, NVIDIA G-SYNC and Advanced Optimus",
+  "Dimensions": "35.62 x 27.25 x 1.29 cm",
+  "Weight": "2.69 Kg",
+  "Warranty": "2 Years Premium Support:Onsite Service-Retail (1 Year Accidental Damage Service-Retail/Adapter 2 Years Warranty / Battery 2 Years Warranty)",
+  "img": "images/Dell-Notebook-Alienware-M15R5R-W569212800ATHW10-1.jpg",
+  "Price": 94490
+},{
+  "_id": {
+    "$oid": "617c4fbd333a3888363b016a"
+  },
+  "Brand": "Dell",
+  "Name": "Dell Notebook XPS15 9500-W5671700THAD Silver",
+  "ProcessorBrand": "Intel",
+  "Processor": "Intel Core i7-10750H",
+  "Memory": "512GB M.2 PCIe NVMe SSD",
+  "Storage": "1TB PCIe M.2 SSD",
+  "GraphicsBrand": "NVIDIA",
+  "Graphics": "NVIDIA GeForce GTX 1650 Ti",
+  "ScreenSize": "15.6 inch",
+  "Display": "UHD+ (3840 x 2400) InfinityEdge Touch Anti-Reflecitve 500-Nit Display",
+  "Dimensions": "34.47 x 23.01 x 1.8 cm",
+  "Weight": "2.05 Kg",
+  "Warranty": "3 Years Premium Support: Onsite Service - Retail (1 Year Accidental Damage Service-Retail / Adapter 3 Years Warranty / Battery 2 Years Warranty)",
+  "img": "images/Dell-Notebook-XPS15-9500-W5671700THAD-Silver-1.jpg",
+  "Price": 79990
+},{
+  "_id": {
+    "$oid": "617c5094333a3888363b016b"
+  },
+  "Brand": "Dell",
+  "Name": "Dell Notebook XPS13 7390 W567053113THW10 Silver",
+  "ProcessorBrand": "Intel",
+  "Processor": "Intel Core i7-1065G7",
+  "Memory": "16GB 3733MHz LPDDR4x Memory Onboard",
+  "Storage": "512GB PCIe NVMe x4 Solid State Drive Onboard",
+  "GraphicsBrand": "Intel",
+  "Graphics": "Intel UHD Graphics",
+  "ScreenSize": "13.4 inch",
+  "Display": "16:10 UHD+ WLED Touch Display (3840 x 2400)",
+  "Dimensions": "39.6 x 20.7 x 0.13 cm",
+  "Weight": "1.33 Kg",
+  "Warranty": "3 Years Premium Support: Onsite Service - Retail",
+  "img": "images/Dell-Notebook-XPS13-7390-W567053113THW10-Silver-1.jpg",
+  "Price": 89990
+},{
+  "_id": {
+    "$oid": "617c5287333a3888363b016c"
+  },
+  "Brand": "Dell",
+  "Name": "Dell Notebook Latitude3420 SNS3420005 Black",
+  "ProcessorBrand": "Intel",
+  "Processor": "Intel Core i5-1135G7",
+  "Memory": "8GB DDR4 3200MHz Non-ECC",
+  "Storage": "512GB PCIe NVMe M.2 Class 35 SSD",
+  "GraphicsBrand": "Intel",
+  "Graphics": "Intel Iris Xe Graphics",
+  "ScreenSize": "14.0 inch",
+  "Display": "FHD (1920 x 1080) AG Non-Touch, 250nits, Camera w/shutter & Microphone, WLAN Capable",
+  "Dimensions": "32.60 x 22.60 x 1.76 cm",
+  "Weight": "1.52 Kg",
+  "Warranty": "3 Years Pro Support",
+  "img": "images/Dell-Notebook-Latitude3420-SNS3420005-Black-1.jpg",
+  "Price": 36190
+},{
+  "_id": {
+    "$oid": "617c53ba333a3888363b016d"
+  },
+  "Brand": "Dell",
+  "Name": "Dell Notebook Inspiron 5510-W5662153310THW10 Platinum Silver",
+  "ProcessorBrand": "Intel",
+  "Processor": "Intel Core i5-11300H",
+  "Memory": "8GB DDR4 3200MHz",
+  "Storage": "512GB M.2 PCIe NVMe Solid State Drive",
+  "GraphicsBrand": "NVIDIA",
+  "Graphics": "NVIDIA GeForce MX450",
+  "ScreenSize": "15.6 inch",
+  "Display": "FHD (1920 x 1080) Anti-glare LED Backlight Non-Touch Narrow Border WVA Display",
+  "Dimensions": "35.61 x 22.89 x 1.8 cm",
+  "Weight": "1.64 Kg",
+  "Warranty": "2 Years Premium Support: Onsite Service-Retail (1 Year Accidental Damage Service-Retail/Adapter 2 Years Warranty/ Battery 2 Years Warranty)",
+  "img": "images/Dell-Notebook-Inspiron-5510-W5662153310THW10-Platinum-Silver-1.jpg",
+  "Price": 30990
+},{
+  "_id": {
+    "$oid": "617c54a3333a3888363b016f"
+  },
+  "Brand": "Dell",
+  "Name": "Dell Notebook Inspiron 5510-W5662153310THW10 Mist Blue",
+  "ProcessorBrand": "Intel",
+  "Processor": "Intel Core i5-11300H",
+  "Memory": "8GB DDR4 3200MHz",
+  "Storage": "512GB M.2 PCIe NVMe Solid State Drive",
+  "GraphicsBrand": "NVIDIA",
+  "Graphics": "NVIDIA GeForce MX450",
+  "ScreenSize": "15.6 inch",
+  "Display": "FHD (1920 x 1080) Anti-glare LED Backlight Non-Touch Narrow Border WVA Display",
+  "Dimensions": "35.61 x 22.89 x 1.8 cm",
+  "Weight": "1.64 Kg",
+  "Warranty": "2 Years Premium Support: Onsite Service-Retail (1 Year Accidental Damage Service-Retail/Adapter 2 Years Warranty/ Battery 2 Years Warranty)",
+  "img": "images/Dell-Notebook-Inspiron-5510-W5662153310THW10-Mist-Blue-1.jpg",
+  "Price": 30990
+},{
+  "_id": {
+    "$oid": "617c55a9333a3888363b0171"
+  },
+  "Brand": "Dell",
+  "Name": "Dell Notebook Inspiron 3511-W566254465BTHW10 Platinum Silver",
+  "ProcessorBrand": "Intel",
+  "Processor": "Intel Core i5-1135G7",
+  "Memory": "8GB DDR4 3200MHz",
+  "Storage": "512GB M.2 PCIe NVMe SSD",
+  "GraphicsBrand": "NVIDIA",
+  "Graphics": "NVIDIA GeForce MX 350",
+  "ScreenSize": "15.6 inch",
+  "Display": "FHD (1920 x 1080) Anti-glare LED Backlight Non-Touch Narrow Border WVA Display",
+  "Dimensions": "35.85 x 23.36 x 1.9 cm",
+  "Weight": "1.85 Kg",
+  "Warranty": "2 Years Premium Support: Onsite Service - Retail (Adapter 2 Years Warranty / Battery 2 years Warranty)",
+  "img": "images/Dell-Notebook-Inspiron-3511-W566254465BTHW10-Platinum-Silver-1.jpg",
+  "Price": 29590
+},{
+  "_id": {
+    "$oid": "617c563c333a3888363b0172"
+  },
+  "Brand": "Dell",
+  "Name": "Dell Notebook Vostro V3510-W568258000THCOM Carbon Black",
+  "ProcessorBrand": "Intel",
+  "Processor": "Intel Core i3-1115G4",
+  "Memory": "8GB DDR4 2666MHz",
+  "Storage": "256GB M.2 PCIe NVMe SSD",
+  "GraphicsBrand": "Intel",
+  "Graphics": "Intel UHD Graphics",
+  "ScreenSize": "15.6 inch",
+  "Display": "FHD (1920 x 1080) Anti-glare LED Backlight Non-Touch Narrow Border WVA Display",
+  "Dimensions": "35.85 x 23.56 x 1.89 cm",
+  "Weight": "1.69 Kg",
+  "Warranty": "3 Years ProSupport and Next Business Day Onsite Service-Retail (Adapter 2 Years Warranty / Battery 2 years Warranty)",
+  "img": "images/Dell-Notebook-Vostro-V3510-W568258000THCOM-Carbon-Black-2-square_medium.jpg",
+  "Price": 21490
+},{
+  "_id": {
+    "$oid": "617c56d7333a3888363b0173"
+  },
+  "Brand": "Dell",
+  "Name": "Dell Notebook Vostro 3400-W568216601THCOM Black",
+  "ProcessorBrand": "Intel",
+  "Processor": "Intel Core i3-1115G4",
+  "Memory": "4GB DDR4",
+  "Storage": "256GB M.2 PCIe NVMe SSD",
+  "GraphicsBrand": "Intel",
+  "Graphics": "Intel UHD Graphics",
+  "ScreenSize": "14.0 inch",
+  "Display": "FHD (1920 x 1080) Anti-glare LED Backlight Non-Touch Narrow Border WVA",
+  "Dimensions": "32.87 x 23.95 x 1.9 cm",
+  "Weight": "1.83 Kg",
+  "Warranty": "3 Years ProSupport and Next Business Day Onsite Service-Retail (Adapter 3 Years Warranty / Battery 1 Year Warranty)",
+  "img": "images/Dell-Notebook-Vostro-3400-W568216601THCOM-Black-1.jpg",
+  "Price": 21490
+},{
+  "_id": {
+    "$oid": "617cf1db6f17fc6bb11c5670"
+  },
+  "Brand": "Samsung",
+  "Name": "Samsung Galaxy Book S NT767XCM-K38(S)",
+  "ProcessorBrand": "Intel",
+  "Processor": "Intel Core i3-L13G4",
+  "Memory": "8GB LPDDR4x memory",
+  "Storage": "256 GB PCle NVME TLC M.2 SSD",
+  "GraphicsBrand": "Intel",
+  "Graphics": "Intel UHD Graphics",
+  "ScreenSize": "13.3 inch",
+  "Display": "FHD TFT LCD Display with Touch Screen Panel",
+  "Dimensions": "305.2 x 203.2 x 6.2-11.8mm",
+  "Weight": "950 g",
+  "Warranty": "2 Years Onsite Service + 1 Year ADP ประกันอุบัติเหตุ",
+  "img": "images/Samsung NT767XCM-K38(S).jpg",
+  "Price": 30200
+},{
+  "_id": {
+    "$oid": "617d002c6f17fc6bb11c5671"
+  },
+  "Brand": "Samsung",
+  "Name": "Samsung Galaxy Book Go",
+  "ProcessorBrand": "Samsung",
+  "Processor": "Octa-core Qualcomm Snapdragon 7c Gen 2 8nm",
+  "Memory": "6GB/8GB + storage (eUFS)",
+  "Storage": "128GB microSD card",
+  "GraphicsBrand": "Samsung",
+  "Graphics": "Adreno 618",
+  "ScreenSize": "14 inch",
+  "Display": "IPS LCD 14 inch Full HD",
+  "Dimensions": "323.9 x 224.8 x 14.9mm",
+  "Weight": "1.39 kg",
+  "Warranty": "2 Years Onsite Service ุ",
+  "img": "images/Samsung Galaxy Book Go.jpg",
+  "Price": 10900
+},{
+  "_id": {
+    "$oid": "617d02946f17fc6bb11c5672"
+  },
+  "Brand": "Samsung",
+  "Name": "Samsung Galaxy Book Flex 5G",
+  "ProcessorBrand": "Intel",
+  "Processor": "Intel Core i5/i7",
+  "Memory": "16GB (LPDDR4x))",
+  "Storage": "512GB SSD (NVMe)",
+  "GraphicsBrand": "Intel",
+  "Graphics": "Intel Iris Xe graphics",
+  "ScreenSize": "13.3 inch",
+  "Display": "Full HD (1920 x 1080)",
+  "Dimensions": "304.9 x 202.3 x 13.9-14.9mm",
+  "Weight": "1.26 kg",
+  "Warranty": "1 Years Onsite Service ุ",
+  "img": "images/Galaxy Book Flex 5G.jpg",
+  "Price": 50600
+},{
+  "_id": {
+    "$oid": "617d06966f17fc6bb11c5673"
+  },
+  "Brand": "Samsung",
+  "Name": "Samsung Galaxy Book Pro",
+  "ProcessorBrand": "Intel",
+  "Processor": "Intel Core i3/i5/i7",
+  "Memory": "16/32 GB (LPDDR4x)",
+  "Storage": "1TB SSD (NVMe)",
+  "GraphicsBrand": "Intel",
+  "Graphics": "Intel Iris Xe GeForce MX450s",
+  "ScreenSize": "13.3 inch",
+  "Display": "AMOLED (1920 x 1080) Display HDR 600",
+  "Dimensions": "14 x 8.9 x 0.5 inch",
+  "Weight": "1.05 kg",
+  "Warranty": "2 Years Onsite Service ุ",
+  "img": "images/Galaxy Book Pro.jpg",
+  "Price": 34900
+},{
+  "_id": {
+    "$oid": "617bf23ae865ad3b80b68bfa"
+  },
+  "Brand": "Acer",
+  "Name": "ACER SWIFT 3 SF314-43-R66K (ELECTRIC BLUE)",
+  "ProcessorBrand": "AMD",
+  "Processor": "RYZEN 5 5500U",
+  "Memory": "8 GB LPDDR4X (ON BOARD)",
+  "Storage": "512 GB PCIe 3/NVMe M.2 SSD",
+  "GraphicsBrand": "AMD (Integrated)",
+  "Graphics": "14 FULL HD IPS",
+  "ScreenSize": "14 inch",
+  "Display": "14 FULL HD IPS",
+  "Dimensions": "32 x 22 x 2 cm",
+  "Weight": "1.2 Kg",
+  "Warranty": "2 Years",
+  "img": "images/ACER_SWIFT_3_SF314-43-R66K.jpg",
+  "Price": 24990
+},{
+  "_id": {
+    "$oid": "617c0206e865ad3b80b68bfb"
+  },
+  "Brand": "Acer",
+  "Name": "ACER NITRO 5 AN515-57-52UX (SHALE BLACK)",
+  "ProcessorBrand": "Intel",
+  "Processor": "Intel Core i5-11400H",
+  "Memory": "16 GB DDR4",
+  "Storage": "512 GB PCIe/NVMe SSD",
+  "GraphicsBrand": "AMD (Integrated)",
+  "Graphics": "FULL HD IPS 144Hz",
+  "ScreenSize": "15.6 inch",
+  "Display": "NVIDIA GEFORCE RTX3060 6 GB GDDR6",
+  "Dimensions": "39 x 26.5 x 2.6 cm",
+  "Weight": "2.2 Kg",
+  "Warranty": "3 Years",
+  "img": "images/ACER_NITRO_5_AN515-57-52UX.jpg",
+  "Price": 38990
+},{
+  "_id": {
+    "$oid": "617c0cd1e865ad3b80b68bfc"
+  },
+  "Brand": "Acer",
+  "Name": "ACER SWIFT SF514-55TA-7494 (MIST GREEN)",
+  "ProcessorBrand": "Intel",
+  "Processor": "Intel CORE I7-1165G7",
+  "Memory": "16 GB LPDDR4X (ON-BOARD)",
+  "Storage": "1 TB SSD",
+  "GraphicsBrand": "AMD (Integrated)",
+  "Graphics": " IRIS XE GRAPHICS (INTEGRATED)",
+  "ScreenSize": "14 inch",
+  "Display": "FULL HD IPS TOUCH-SCREEN",
+  "Dimensions": "31.8 x 21.2 x 1.8 cm",
+  "Weight": "1.047 Kg",
+  "Warranty": "3 Years",
+  "img": "images/ACER_SWIFT_SF514-55TA-7494.jpg",
+  "Price": 41990
+},{
+  "_id": {
+    "$oid": "617c0edae865ad3b80b68bfd"
+  },
+  "Brand": "Acer",
+  "Name": "ACER ASPIRE A314-22-R5UL (BLACK)",
+  "ProcessorBrand": "AMD",
+  "Processor": "RYZEN 5 3500U",
+  "Memory": "4 GB DDR4",
+  "Storage": "512 GB PCIe/NVMe M.2 SSD",
+  "GraphicsBrand": "AMD (Integrated)",
+  "Graphics": " AMD Radeon Vega 8 Graphics",
+  "ScreenSize": "14 inch",
+  "Display": "FULL HD",
+  "Dimensions": "32.8 x 23.6 x 1.99 cm",
+  "Weight": "1.9 Kg",
+  "Warranty": "2 Years",
+  "img": "images/ACER_ASPIRE_A314-22-R5UL.jpg",
+  "Price": 16990
+},{
+  "_id": {
+    "$oid": "617c122ee865ad3b80b68bfe"
+  },
+  "Brand": "Acer",
+  "Name": "ACER SWIFT 3 SF314-511-75C6 (ELECTRIC BLUE)",
+  "ProcessorBrand": "Intel",
+  "Processor": "CORE I7-1165G7",
+  "Memory": "8 GB LPDDR4X",
+  "Storage": "512 GB PCIe/NVMe SSD",
+  "GraphicsBrand": "Intel (Integrated)",
+  "Graphics": "Intel Iris Xe Graphics",
+  "ScreenSize": "14 inch",
+  "Display": "FULL HD IPS",
+  "Dimensions": "32 x 22 x 2 cm",
+  "Weight": "1.2 Kg",
+  "Warranty": "3 Years",
+  "img": "images/ACER_SWIFT_3_SF314-511-75C6.jpg",
+  "Price": 29990
+},{
+  "_id": {
+    "$oid": "617c1079b4d331d2828235c9"
+  },
+  "Brand": "Asus",
+  "Name": "Asus Notebook TUF FX505DT-AL043T",
+  "ProcessorBrand": "AMD",
+  "Processor": "Ryzen 7 3750H",
+  "Memory": "8GB DDR4 2400MHz",
+  "Storage": "512GB SSD",
+  "GraphicsBrand": "NVIDIA",
+  "Graphics": "GeForce GTX 1650",
+  "ScreenSize": "15.6 inch",
+  "Display": "FHD (1920x1080) Anti-Glare 120Hz IPS-level",
+  "Dimensions": "36.0 x 26.2 x 2.60 cm",
+  "Weight": "2.20 Kg",
+  "Warranty": "2 Years carry in + 1 Year Perfect warranty",
+  "img": "images/Asus_FX505DT-AL043T.png",
+  "Price": 20990
+},{
+  "_id": {
+    "$oid": "617c127ab4d331d2828235ca"
+  },
+  "Brand": "Asus",
+  "Name": "Asus Notebook ROG ZEPHYRUS G15 GA503QS-HQ104T Grey",
+  "ProcessorBrand": "AMD",
+  "Processor": "Ryzen 9 5900HS",
+  "Memory": "16GB DDR4 on board",
+  "Storage": "1TB M.2 NVMe PCIe 3.0 SSD",
+  "GraphicsBrand": "NVIDIA ",
+  "Graphics": "GeForce RTX 3080",
+  "ScreenSize": "15.6 inch",
+  "Display": "WQHD (2560 x 1440) 16:9 anti-glare display",
+  "Dimensions": "35.5 x 24.3 x 1.99 ~ 1.99 cm",
+  "Weight": "1.90 Kg",
+  "Warranty": "2 Years",
+  "img": "images/Asus_GA503QS-HQ104T.png",
+  "Price": 84990
+},{
+  "_id": {
+    "$oid": "617c14fdb4d331d2828235cb"
+  },
+  "Brand": "Asus",
+  "Name": "Asus Notebook TUF Gaming F17 FX706HCB-HX111T Gary",
+  "ProcessorBrand": "Intel",
+  "Processor": "Core i5-11400H",
+  "Memory": "8GB DDR4-3200 SO-DIMM",
+  "Storage": "512GB M.2 NVMe PCIe 3.0 SSD",
+  "GraphicsBrand": "NVIDIA ",
+  "Graphics": "GeForce RTX 3050",
+  "ScreenSize": "17.3 inch",
+  "Display": "Anti-glare display FHD (1920 x 1080) 16:9",
+  "Dimensions": "39.9 x 26.9 x 2.21 ~ 2.39 cm",
+  "Weight": "2.60 Kg",
+  "Warranty": "2 Years",
+  "img": "images/Asus_FX706HCB-HX111T.png",
+  "Price": 34990
+},{
+  "_id": {
+    "$oid": "617c161fb4d331d2828235cc"
+  },
+  "Brand": "Asus",
+  "Name": "Asus Notebook ROG Strix G15 GL543QR-HF126T Grey",
+  "ProcessorBrand": "AMD",
+  "Processor": "Ryzen 9 5900HX",
+  "Memory": "16GB DDR4 3200 SO-DIMM",
+  "Storage": "1TB M.2 NVMe PCIe 3.0 SSD",
+  "GraphicsBrand": "NVIDIA ",
+  "Graphics": "GeForce RTX 3070",
+  "ScreenSize": "15.6 inch",
+  "Display": "FHD (1920 x 1080) 16:9 300Hz",
+  "Dimensions": "35.4 x 25.9 x 2.72 cm",
+  "Weight": "2.30 Kg",
+  "Warranty": "2 Years carry in + Perfect warranty",
+  "img": "images/Asus_GL543QR-HF126T.png",
+  "Price": 64990
+},{
+  "_id": {
+    "$oid": "617c1715b4d331d2828235cd"
+  },
+  "Brand": "Asus",
+  "Name": "Asus Notebook TUF Dash F15 FX516PR-HN033T Grey",
+  "ProcessorBrand": "Intel",
+  "Processor": "Core i7-11370H",
+  "Memory": "16GB DDR4 on board",
+  "Storage": "512GB M.2 NVMe PCIe 3.0 SSD",
+  "GraphicsBrand": "NVIDIA",
+  "Graphics": "GeForce RTX 3070",
+  "ScreenSize": "15.6 inch",
+  "Display": "FHD (1920 x 1080) 16:9 144Hz",
+  "Dimensions": "36.0 x 25.2 x 1.99 cm",
+  "Weight": "2.0 Kg",
+  "Warranty": "2 Years carry in + Perfect warranty",
+  "img": "images/Asus_FX516PR-HN033T.png",
+  "Price": 52990
+},{
+  "_id": {
+    "$oid": "617c17d7b4d331d2828235ce"
+  },
+  "Brand": "Asus",
+  "Name": "Asus Notebook ROG Zephyrus Duo 15 SE GX551QR-HF085T Black",
+  "ProcessorBrand": "AMD",
+  "Processor": "Ryzen 9 5980HS",
+  "Memory": "32GB (16GB DDR4 on board + 16GB DDR4-3200 SO-DIMM)",
+  "Storage": "1TB M.2 NVMe PCIe 3.0 Performance SSD",
+  "GraphicsBrand": "NVIDIA",
+  "Graphics": "GeForce RTX 3070",
+  "ScreenSize": "15.6 inch",
+  "Display": "FHD (1920 x 1080) 16:9 300Hz IPS-level Anti-glare SRGB 100%",
+  "Dimensions": "35.90 x 25.60 x 2.43 cm",
+  "Weight": "2.48 Kg",
+  "Warranty": "3 Years OSS",
+  "img": "images/Asus_GX551QR-HF085T.png",
+  "Price": 99990
+},{
+  "_id": {
+    "$oid": "617c0b2fe30b6b945e7bf435"
+  },
+  "Brand": "Lenovo",
+  "Name": "Lenovo Notebook Yoga Slim 7 Pro 14ITL5 82FX001lTA Grey",
+  "ProcessorBrand": "Intel",
+  "Processor": "Core i7-1165G7",
+  "Memory": "16GB Soldered LPDDR4x-4266",
+  "Storage": "1TB SSD M.2 2280 PCIe 4.0x4 NVMe",
+  "GraphicsBrand": "NVIDIA",
+  "Graphics": "GeForce MX450",
+  "ScreenSize": "14.0 inch",
+  "Display": "2.2K (2240x1400) IPS 300nits Anti-glare, 60Hz, 100% sRGB, Dolby Vision",
+  "Dimensions": "31.24 x 22.14 x 1.69 cm",
+  "Weight": "1.35 Kg",
+  "Warranty": "3 Years Warranty Premium Care",
+  "img": "images/Lenovo-Notebook-Yoga-Slim-7-Pro-14ITL5-82FX001lTA-Grey-1.jpg",
+  "Price": 39999
+},{
+  "_id": {
+    "$oid": "617c111de30b6b945e7bf437"
+  },
+  "Brand": "Lenovo",
+  "Name": "Lenovo Notebook Yoga Slim 7 Pro 14ACH5 82MS0031TA Grey (A)",
+  "ProcessorBrand": "AMD",
+  "Processor": "Ryzen 9 5900HX",
+  "Memory": "16GB Soldered DDR4-3200",
+  "Storage": "1TB SSD M.2 2280 PCIe 4.0x4 NVMe",
+  "GraphicsBrand": "Integrated",
+  "Graphics": "AMD Radeon Graphics",
+  "ScreenSize": "14.0 inch",
+  "Display": "2.8K (2880x1800) IPS 400nits Glossy, 90Hz, 100% sRGB, glass, Dolby Vis",
+  "Dimensions": "31.24 x 22.14 x 1.46-1.69 cm",
+  "Weight": "1.32 Kg.",
+  "Warranty": "3 Years Warranty Premium Care",
+  "img": "images/Lenovo-Notebook-Yoga-Slim-7-Pro-14ACH5-82MS0031TA-Grey-1-square_medium.jpg",
+  "Price": 37990
+},{
+  "_id": {
+    "$oid": "617c11ffe30b6b945e7bf438"
+  },
+  "Brand": "Lenovo",
+  "Name": "Lenovo Notebook Yoga Slim 7 Carbon 13ITL5-82EV006DTA White",
+  "ProcessorBrand": "Intel",
+  "Processor": "Core i5-1135G7",
+  "Memory": "16GB Soldered LPDDR4x-4266",
+  "Storage": "512GB SSD M.2 2280 PCIe 4.0x4 NVMe",
+  "GraphicsBrand": "Integrated",
+  "Graphics": "Intel Iris Xe Graphics",
+  "ScreenSize": "13.3 inch",
+  "Display": "QHD (2560x1600) Low power IPS 300nits Anti-glare, 100% sRGB, Dolby Vision",
+  "Dimensions": "29.58 x 20.88 x 1.42-1.50 cm",
+  "Weight": "0.966 Kg",
+  "Warranty": "3 Years Warranty Premium Care",
+  "img": "images/Lenovo-Notebook-Yoga-Slim-7-Carbon-13ITL5-82EV006DTA-White-1-square_medium.jpg",
+  "Price": 34990
+},{
+  "_id": {
+    "$oid": "617c13d2e30b6b945e7bf439"
+  },
+  "Brand": "Lenovo",
+  "Name": "Lenovo Notebook IdeaPad Slim3i 15ITL05-81WE01MPTA Grey",
+  "ProcessorBrand": "Intel",
+  "Processor": "Core i3-1005G1",
+  "Memory": "4GB Soldered DDR4-2666 + 4GB SO-DIMM DDR4-2666",
+  "Storage": "512GB SSD M.2 2242 PCIe 3.0x2 NVMe",
+  "GraphicsBrand": "Integrated",
+  "Graphics": "Intel UHD Graphics",
+  "ScreenSize": "15.6 inch",
+  "Display": "HD (1366x768) TN 220nits Anti-glare, Touch, 10-point Multi-touch",
+  "Dimensions": "32.71 x 24.1 x 1.99 cm",
+  "Weight": "1.85 Kg",
+  "Warranty": "2 Years warranty On-site",
+  "img": "images/Lenovo-Notebook-IdeaPad-Slim3i-15ITL05-81WE01MPTA-Grey-1.jpg",
+  "Price": 18490
+},{
+  "_id": {
+    "$oid": "617c0dd8c49d568a486b6d2d"
+  },
+  "Brand": "MSI",
+  "Name": "MSI Notebook Creator Z16 A11UET-034TH Gray",
+  "ProcessorBrand": "intel",
+  "Processor": "Tiger Lake i7-11800H+HM570",
+  "Memory": "32GB DDR IV (3200MHz)",
+  "Storage": "1TB NVMe PCIe Gen4x4 SSD",
+  "GraphicsBrand": "NVIDIA",
+  "Graphics": "GeForce RTX 3060 with Max-Q Design",
+  "ScreenSize": "16.0 inch",
+  "Display": "QHD+ (2560*1600), 120Hz DCI-P3 100% typical, Finger Touch pane",
+  "Dimensions": "\t35.89 x 25.60 x 1.62 cm",
+  "Weight": "2.2 Kg.",
+  "Warranty": "2 Years Warranty (1 Year Global + 1 Year Thailand)",
+  "img": "images/MSI_Creator_Z16.png",
+  "Price": "79990"
+},{
+  "_id": {
+    "$oid": "617c11e8c49d568a486b6d2e"
+  },
+  "Brand": "MSI",
+  "Name": "MSI Notebook GS66 Stealth 11UG-409TH Black",
+  "ProcessorBrand": "intel",
+  "Processor": "Tiger Lake i7-11800H+HM570",
+  "Memory": "32GB DDR 4 (3200MHz)",
+  "Storage": "1TB NVMe PCIe Gen4x4 SSD",
+  "GraphicsBrand": "NVIDIA",
+  "Graphics": "GeForce RTX 3070 Max-Q",
+  "ScreenSize": "\t15.6 inch",
+  "Display": "QHD (2560 x 1440), 165Hz DCI-P3 100% typical",
+  "Dimensions": "35.83 x 24.8 x 1.83-1.98 cm",
+  "Weight": "2.1 Kg.",
+  "Warranty": "2 Years Warranty (1 Year Global + 1 Year Thailand)",
+  "img": "images/MSI_GS66_Staelth.jpg",
+  "Price": "77990"
+},{
+  "_id": {
+    "$oid": "617c13c2c49d568a486b6d2f"
+  },
+  "Brand": "MSI",
+  "Name": "MSI Notebook Stealth 15M A11UEK-237TH Gray",
+  "ProcessorBrand": "intel",
+  "Processor": "Tiger Lake i7-11375H",
+  "Memory": "16GB DDR4 (3200MHz)",
+  "Storage": "1TB NVMe PCIe Gen3x4 SSD (new)",
+  "GraphicsBrand": "NVIDIA",
+  "Graphics": "GeForce RTX 3060 Max-Q",
+  "ScreenSize": "15.6 inch",
+  "Display": "FHD (1920 x 1080), 144Hz 45%NTSC IPS-Level",
+  "Dimensions": "35.83 x 24.8 x 1.62 cm",
+  "Weight": "1.70 Kg.",
+  "Warranty": "2 Years Warranty (1 Year Global + 1 Year Thailand)",
+  "img": "images/MSI_Staelth_15M.jpg",
+  "Price": "56990"
+},{
+  "_id": {
+    "$oid": "617c151cc49d568a486b6d30"
+  },
+  "Brand": "MSI",
+  "Name": "MSI Notebook Sword 17 A11UD-296TH",
+  "ProcessorBrand": "intel",
+  "Processor": "\tTiger Lake i7-11800H+HM570",
+  "Memory": "16GB DDR4 (3200MHz)",
+  "Storage": "1TB NVMe PCIe Gen3x4 SSD (new)",
+  "GraphicsBrand": "NVIDIA",
+  "Graphics": "GeForce RTX 3050 Ti",
+  "ScreenSize": "\t17.3 inch",
+  "Display": "FHD (1920 x 1080), 144Hz 45% NTSC",
+  "Dimensions": "39.8 x 27.3 x 2.52 cm",
+  "Weight": "\t2.60 Kg.",
+  "Warranty": "2 Years Warranty (1 Year Global + 1 Year Thailand)",
+  "img": "images/MSI_Sword_17.jpg",
+  "Price": "44990"
+},{
+  "_id": {
+    "$oid": "617cf661359b356200ae4a40"
+  },
+  "Brand": "Huawei",
+  "Name": " Huawei Notebook MateBook 14s (i7-11370H)",
+  "ProcessorBrand": "intel",
+  "Processor": "Intel Core i7-11370H",
+  "Memory": "16GB LPDDR4x",
+  "Storage": "1TB NVMe PCIe SSD",
+  "GraphicsBrand": "intel",
+  "Graphics": "Intel Iris Xe Graphics",
+  "ScreenSize": "14.2 inch",
+  "Display": "2520 x 1680 Pixel, 213 (PPI)",
+  "Dimensions": "31.38 x 22.97 x 1.67 cm",
+  "Weight": "Approximately 1.43 Kg.",
+  "Warranty": "2 Years",
+  "img": "images/Huawei-Notebook-MateBook-14s-Grey-1-square_medium.jpg",
+  "Price": 55990
+},{
+  "_id": {
+    "$oid": "617cf840359b356200ae4a41"
+  },
+  "Brand": "Huawei",
+  "Name": "Huawei Notebook MateBook 14s (i5-11300H)",
+  "ProcessorBrand": "intel",
+  "Processor": "Intel Core i5-11300H",
+  "Memory": "8GB LPDDR4",
+  "Storage": "512GB NVMe PCIe SSD",
+  "GraphicsBrand": "intel",
+  "Graphics": "Intel Iris Xe Graphics",
+  "ScreenSize": "14.2 inch",
+  "Display": "2520 x 1680 Pixel, 213 (PPI)",
+  "Dimensions": "\t31.38 x 22.97 x 1.67 cm",
+  "Weight": "Approx. 1.43 Kg.",
+  "Warranty": "2 Years",
+  "img": "images/Huawei-Notebook-MateBook-14s-Grey-1.jpg",
+  "Price": 40990
+},{
+  "_id": {
+    "$oid": "617cf8bf359b356200ae4a42"
+  },
+  "Brand": "Huawei",
+  "Name": "Huawei Notebook MateBook 14 (i5-1135G7 8GB)",
+  "ProcessorBrand": "intel",
+  "Processor": "Intel Core i5-1135G7",
+  "Memory": "8GB DDR4",
+  "Storage": "512GB NVMe PCIe SSD",
+  "GraphicsBrand": "intel",
+  "Graphics": "Intel Iris Xe Graphics",
+  "ScreenSize": "14 inch",
+  "Display": "2160 x 1440 Pixel, 185 (PPI)",
+  "Dimensions": "30.75 x 22.38 x 1.59 cm",
+  "Weight": "Approx. 1.38 Kg.",
+  "Warranty": "2 Years",
+  "img": "images/Huawei-Notebook-MateBook-14-i5-1135G7-8GB-01-square_medium.jpg",
+  "Price": 33990
+},{
+  "_id": {
+    "$oid": "617cf946359b356200ae4a43"
+  },
+  "Brand": "Huawei",
+  "Name": "Huawei Notebook MateBook D14 (i5-10210U)",
+  "ProcessorBrand": "intel",
+  "Processor": "Intel Core i5-10210U",
+  "Memory": "16GB",
+  "Storage": "512GB NVMe PCIe SSD",
+  "GraphicsBrand": "intel",
+  "Graphics": "Intel UHD Graphics 620",
+  "ScreenSize": "14.0 inch",
+  "Display": "1920 x 1080 pixels, 157 pixels per inch (PPI)",
+  "Dimensions": "32.25 x 21.48 x 1.59 cm",
+  "Weight": "Approx. 1.38 Kg.",
+  "Warranty": "2 Years",
+  "img": "images/Huawei-Notebook-MateBook-D14-i5-10210U-Grey-1-square_medium.jpg",
+  "Price": 24990
+}]

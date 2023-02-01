@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"
+        integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
+        integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13"
+        crossorigin="anonymous"></script>
+    <title><%= title%></title>
+</head>
+
+<body style="background-color: #FFF9F0;">
+    <div class="bgIndex">
+        <div class="container-sm">
+            <h1 class="indexLogo"><a href="/"><img src="/images/logo.png" alt="" style="width: 400px; height: 150px;"></a></h1>
+            <center><a href="/"><button type="button" class="btn btn-warning back_home_btn">Back to HomePage</button></a></center>
+            <% callData.forEach((pd)=> { %>
+              <div class="card" style="width: 18.5rem; height: 39rem;">
+                <img class="card-img-top" src="/<%= pd.img%>" alt="Card image cap" style="width: auto; height: 270px;">
+                <div class="card-body">
+                  <h5 class="card-title"><%= pd.Name%></h5><hr>
+                  <p class="card-text">CPU : <%= pd.Processor%></p>
+                  <p class="card-text">GPU : <%= pd.Graphics%></p><hr>
+                  <p class="card-text"><%= pd.Price%> บาท</p>
+                  <a href="/detail/<%= pd._id%>" class="btn btn-primary btn-de">ดูรายละเอียดเพิ่มเติม</a>
+                </div>
+              </div>
+            <% }) %>
+        </div>
+    </div>
+</body>
+
+</html>

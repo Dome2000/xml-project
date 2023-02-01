@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='stylesheet' href='/stylesheets/admin.css' />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"
+        integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
+        integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13"
+        crossorigin="anonymous"></script>
+    <script src="/javascripts/select_brand.js"></script>
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <title>
+        <%= title %>
+    </title>
+    <script language="JavaScript">
+        function showPreview(ele) {
+            $('#imgAvatar').attr('src', ele.value);
+            if (ele.files && ele.files[0]) {
+                var reader = new FileReader();
+                reader.onload = function (e) {
+                    $('#imgAvatar').attr('src', e.target.result);
+                }
+                reader.readAsDataURL(ele.files[0]);
+            }
+        }
+    </script>
+</head>
+
+<body style="background-color: #FFF9F0;" onload="brand(), fileName()">
+    <div class="container-sm">
+        <h1 class="indexLogo"><a href="/"><img src="/images/logo.png" alt="" style="width: 400px; height: 150px;"></a></h1>
+        <form action="/auth/updated/<%=callData[0]._id%>" method="post" enctype="multipart/form-data">
+            <table class="table table-bordered">
+                <tbody>
+                    <tr>
+                        <th>รูปภาพ</th>
+                        <td style="text-align: center;">
+                            <img src="/<%=callData[0].img%>" alt="" id="imgAvatar"
+                                style="width: 20.5em; height: 20em; margin-bottom: 1em;">
+                            <div class="input-group input-margin">
+                                <input type="file" name="image" id="fileUpload"class="form-control"
+                                 OnChange="showPreview(this)" hidden>
+                                <img src="/images/upload_image.png" id="upload_button">
+                            </div>
+                            <!-- <input name="text_filename" id="text_file_name" value="<%=callData[0].img.split('\/')[1]%>" 
+                            style="width: 72em;" hidden> -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Brand</th>
+                        <td><select name="lp_brand" class="form-select" id="select-brand" required>
+                                <option selected value="<%=callData[0].Brand%>" id="bs">
+                                    <%=callData[0].Brand%>
+                                </option>
+                                <option value="B" id="bso1">B</option>
+                                <option value="C" id="bso2">C</option>
+                                <option value="D" id="bso3">D</option>
+                                <option value="E" id="bso4">E</option>
+                                <option value="F" id="bso5">F</option>
+                                <option value="G" id="bso6">G</option>
+                                <option value="H" id="bso7">H</option>
+                                <option value="I" id="bso8">I</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Name</th>
+                        <td><input type="text" name="lp_name" class="form-control" value="<%=callData[0].Name%>"
+                                placeholder="Laptop Name" required>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Price</th>
+                        <td>
+                            <div class="input-group input-margin">
+                                <input type="number" name="lp_price" class="form-control" value="<%=callData[0].Price%>"
+                                    placeholder="Price" required>
+                                <span class="input-group-text">Bath</span>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>ProcessorBrand</th>
+                        <td>
+                            <select name="lp_cpu_brand" class="form-select" id="select-ProcessorBrand" required>
+                                <option selected value="<%=callData[0].ProcessorBrand%>" id="gs">
+                                    <%=callData[0].ProcessorBrand%>
+                                </option>
+                                <option value="B" id="gso1">B</option>
+                                <option value="C" id="gso2">C</option>
+                                <option value="D" id="gso3">D</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Processor</th>
+                        <td>
+                            <input type="text" name="lp_cpu_name" class="form-control"
+                                value="<%=callData[0].Processor%>" placeholder="Graphics Name" required>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Memory</th>
+                        <td>
+                            <input type="text" name="lp_memory" class="form-control" value="<%=callData[0].Memory%>"
+                                placeholder="Memory" required>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Storage</th>
+                        <td>
+                            <input type="text" name="lp_storage" class="form-control" value="<%=callData[0].Storage%>"
+                                placeholder="Storage" required>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>GraphicsBrand</th>
+                        <td>
+                            <select name="lp_gpu_brand" class="form-select" id="select-ProcessorBrand" required>
+                                <option selected value="<%=callData[0].GraphicsBrand%>" id="ps">
+                                    <%=callData[0].GraphicsBrand%>
+                                </option>
+                                <option value="B" id="pso1">B</option>
+                                <option value="C" id="pso2">C</option>
+                                <option value="D" id="pso3">D</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Graphics</th>
+                        <td>
+                            <input type="text" name="lp_gpu_name" class="form-control" value="<%=callData[0].Graphics%>"
+                                placeholder="Graphics Name" required>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Screen Size</th>
+                        <td>
+                            <div class="input-group input-margin">
+                                <input type="text" name="lp_sc_size" class="form-control"
+                                    value="<%=callData[0].ScreenSize.split(' ')[0]%>" placeholder="Screen Size (inch)"
+                                    required>
+                                <span class="input-group-text">inch</span>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Display</th>
+                        <td>
+                            <textarea name="lp_display" class="form-control" placeholder="Display"
+                                required><%=callData[0].Display%></textarea>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Dimensions</th>
+                        <td>
+                            <div class="input-group input-margin">
+                                <input type="text" name="lp_width" class="form-control md-4"
+                                    value="<%=callData[0].Dimensions.split(' ')[0]%>" placeholder="Width" required>
+                                <span class="input-group-text">*</span>
+                                <input type="text" name="lp_height" class="form-control md-4"
+                                    value="<%=callData[0].Dimensions.split(' ')[2]%>" placeholder="Height" required>
+                                <span class="input-group-text">*</span>
+                                <input type="text" name="lp_deep" class="form-control md-4"
+                                    value="<%=callData[0].Dimensions.split(' ')[4]%>" placeholder="Deep" required>
+                                <span class="input-group-text">cm.</span>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Weight</th>
+                        <td>
+                            <div class="input-group input-margin">
+                                <input type="text" name="lp_weight" class="form-control md-6"
+                                    value="<%=callData[0].Weight.split(' ')[0]%>" placeholder="Weight" required>
+                                <span class="input-group-text">Kg.</span>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Warranty</th>
+                        <td>
+                            <input type="text" name="lp_warranty" class="form-control" value="<%=callData[0].Warranty%>"
+                                placeholder="Warranty" required>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <button type="submit" class="btn btn-warning save_btn">Save</button>
+        </form>
+        <a href="/auth/<%= link %>"><button type="button" class="btn btn-warning back_home_btn">Back to All
+                Products</button></a>
+    </div>
+</body>
+
+<script src="/javascripts/upload_image.js"></script>
+
+</html>

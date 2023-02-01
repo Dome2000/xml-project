@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        <%= title %>
+    </title>
+    <link rel='stylesheet' href='/stylesheets/admin.css' />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"
+        integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
+        integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13"
+        crossorigin="anonymous"></script>
+</head>
+
+<body style="background-color: #FFF9F0;">
+    <div class="container-sm" style="margin-bottom: 45em;">
+        <h1 class="indexLogo"><a href="/"><img src="/images/logo.png" alt="" style="width: 400px; height: 150px;"></a></h1>
+        <form class="md-5 form_add" action="/auth/insert" method="post" enctype="multipart/form-data">
+            <div id="add" class="card">
+                <button type="submit" class="btn btn-warning disabled input-margin">Add Laptop</button>
+                <div class="input-group input-margin">
+                    <select name="lp_brand"  class="form-select" id="select-brand" required>
+                        <option selected disabled>Choose Computer Brand</option>
+                        <option value="Acer">Acer</option>
+                        <option value="Apple">Apple</option>
+                        <option value="Asus">Asus</option>
+                        <option value="Dell">Dell</option>
+                        <option value="HP">HP</option>
+                        <option value="Huawei">Huawei</option>
+                        <option value="Lenovo">Lenovo</option>
+                        <option value="MSI">MSI</option>
+                        <option value="Samsung">Samsung</option>
+                    </select>
+                </div>
+
+                <div class="input-group input-margin">
+                    <input type="text" name="lp_name" class="form-control" placeholder="Laptop Name" required>
+                </div>
+
+                <div class="input-group input-margin">
+                    <select name="lp_cpu_brand" class="form-select" id="select-ProcessorBrand" required>
+                        <option selected disabled>Choose Processor Brand</option>
+                        <option value="AMD">AMD</option>
+                        <option value="Apple">Apple</option>
+                        <option value="Intel">Intel</option>
+                    </select>
+                </div>
+
+                <div class="input-group input-margin">
+                    <input type="text" name="lp_cpu_name" class="form-control" placeholder="Processor Name" required>
+                </div>
+
+                <div class="input-group input-margin">
+                    <input type="text" name="lp_memory" class="form-control" placeholder="Memory" required>
+                </div>
+
+                <div class="input-group input-margin">
+                    <input type="text" name="lp_storage" class="form-control" placeholder="Storage" required>
+                </div>
+
+                <div class="input-group input-margin">
+                    <select name="lp_gpu_brand" class="form-select" id="select-ProcessorBrand" required>
+                        <option selected disabled>Choose Graphics Brand</option>
+                        <option value="AMD">AMD</option>
+                        <option value="Apple">NVIDIA</option>
+                        <option value="Intel">Intel</option>
+                        <option value="N/A">N/A</option>
+                    </select>
+                </div>
+
+                <div class="input-group input-margin">
+                    <input type="text" name="lp_gpu_name" class="form-control" placeholder="Graphics Name" required>
+                </div>
+
+                <div class="input-group input-margin">
+                    <input type="text" name="lp_sc_size" class="form-control" placeholder="Screen Size (inch)" required>
+                    <span class="input-group-text">inch</span>
+                </div>
+
+                <div class="input-group input-margin">
+                    <input type="text" name="lp_display" class="form-control" placeholder="Display" required>
+                </div>
+
+                <div class="input-group input-margin">
+                    <input type="text" name="lp_width" class="form-control md-4" placeholder="Width" required>
+                    <span class="input-group-text">*</span>
+                    <input type="text" name="lp_height" class="form-control md-4" placeholder="Height" required>
+                    <span class="input-group-text">*</span>
+                    <input type="text" name="lp_deep" class="form-control md-4" placeholder="Deep" required>
+                    <span class="input-group-text">cm.</span>
+                </div>
+
+                <div class="input-group input-margin">
+                    <input type="text" name="lp_weight" class="form-control md-6" placeholder="Weight" required>
+                    <span class="input-group-text">Kg.</span>
+                </div>
+
+                <div class="input-group input-margin">
+                    <input type="text" name="lp_warranty" class="form-control" placeholder="Warranty" required>
+                </div>
+
+                <div class="input-group input-margin">
+                    <input type="file" name="image" class="form-control" required>
+                </div>
+
+                <div class="input-group input-margin">
+                    <input type="number" name="lp_price" class="form-control" placeholder="Price" required>
+                    <span class="input-group-text">Bath</span>
+                </div>
+
+                <button type="submit" class="btn btn-warning">Submit</button>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>
